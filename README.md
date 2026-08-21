@@ -15,7 +15,7 @@ A simple Text-to-Speech (TTS) application built with Python that converts user-e
 - Python
 - pyttsx3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 text-to-speech/
