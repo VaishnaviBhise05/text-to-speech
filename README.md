@@ -44,7 +44,7 @@ cd text-to-speech
 pip install pyttsx3
 ```
 
-## ▶️ Usage
+##  Usage
 
 Run the program:
 
