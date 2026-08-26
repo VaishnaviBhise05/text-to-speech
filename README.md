@@ -1,4 +1,4 @@
-# 🔊 Text-to-Speech using Python
+#  Text-to-Speech using Python
 
 A simple Text-to-Speech (TTS) application built with Python that converts user-entered text into spoken audio using the `pyttsx3` library. The application works offline and provides a quick way to hear text read aloud.
 
