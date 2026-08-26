@@ -60,7 +60,7 @@ Enter the text:
 
 The program will read the entered text aloud through your computer's speakers.
 
-## 💻 Example
+## Example
 
 **Input:**
 
@@ -71,11 +71,11 @@ Enter the text: Welcome to Python programming.
 **Output:**
 
 ```
-🔊 The system speaks:
+ The system speaks:
 "Welcome to Python programming."
 ```
 
-## 📜 Code
+##  Code
 
 ```python
 import pyttsx3
